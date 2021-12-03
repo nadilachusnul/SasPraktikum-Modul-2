@@ -1,4 +1,4 @@
-## Laporan Hasil Pratikum 2 - Sistem Administrasi Server 
+## Laporan Hasil Pratikum  Modul 2 - Sistem Administrasi Server 
 
 Nadila Chusnul K - 1202190020 \
 Anastasya Rahma Juniarti - 120219058\
